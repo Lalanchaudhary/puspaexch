@@ -15,7 +15,7 @@ body{
 {
     height: 100%;
     width: 100%;
-    background-color:rgba(0, 0, 0, 0.847);
+    background-color:rgba(0, 0, 0, 0.907);
 }
 marquee
 {
@@ -39,7 +39,7 @@ a
 .inner 
 {
 height: 100%;
-width: 96%;
+width: 98%;
 }
 .inner img 
 {
